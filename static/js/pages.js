@@ -1,0 +1,1 @@
+var homepage = "<div class='home w3-container'><div class='home-container'><img src='assets/img/favicon.png'><h2>ENTE-APP</h2><p>Forum Silaturahim Alumni PP. NT.</p><a class='w3-button w3-round w3-small w3-teal' href=''>Login</a> <a class='w3-button w3-round w3-small w3-teal' href=''>Buat akun</a></div></div>";

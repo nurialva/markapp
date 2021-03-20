@@ -1,0 +1,12 @@
+{
+    "name": "eraser/markappv3",
+    "require": {
+        "webonyx/graphql-php": "^14.5"
+    },
+    "authors": [
+        {
+            "name": "Zainuri",
+            "email": "nurinawawy@gmail.com"
+        }
+    ]
+}
